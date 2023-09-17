@@ -2,8 +2,8 @@
 
 ### 📊 Stats
 
-<div style="display:inline-block;">![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=oenzocabral&show_icons=true&theme=transparent)</div>
-<div style="display:inline-block;">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oenzocabral)](https://github.com/anuraghazra/github-readme-stats)</div>
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=oenzocabral&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oenzocabral)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
