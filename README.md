@@ -1,7 +1,5 @@
 <h1>Hi, I'm Enzo Cabral</h1>
 
-#
-
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=oenzocabral&show_icons=true&theme=transparent)
