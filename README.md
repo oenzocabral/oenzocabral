@@ -2,9 +2,9 @@
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=oenzocabral&show_icons=true&theme=transparent)
+<div style="display:inline-block;padding-left:15px;">![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=oenzocabral&show_icons=true&theme=transparent)</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oenzocabral)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display:inline-block;padding-left:15px;">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oenzocabral)]</div>
 
 #
 
