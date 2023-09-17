@@ -24,6 +24,8 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+#
+
 <details>
   <summary>👨‍💻 My Coding Journey 👨‍💻</summary>
   I started coding over two years ago, when I had an idea for a website I wanted to build at the time. I then started learning HTML and CSS, and ever since that &60<h1>Hello World</h1>&62 I've been in love with code. But my journey didn't stop at HTML and CSS, after that I learned some basic Javascript, but it didn't really fit me at the time, so I learned Python, and I dived deeply into the Python universe by learning lots of frameworks such as Flask, Pandas, Numpy, and my favourite, Django. After mastering Python and it's frameworks I decided to give Javascript another shot and go for a new challenge, and so I started learning the MERN stack.
